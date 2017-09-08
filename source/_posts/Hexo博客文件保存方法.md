@@ -2,8 +2,8 @@
 title: 使用Git管理Hexo博客文件
 date: 2017-05-31 00:00:32
 tags:
-  - hexo
-  - blog
+  - Hexo
+  - Blog
 categories:
   - Hexo
 ---
